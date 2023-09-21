@@ -1,0 +1,32 @@
+[  
+    {  
+      "id": 1,  
+      "name": "Ambrish S",  
+      "email": "jeevaambrish@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 2,  
+      "name": "Pradeep S",  
+      "email": "gspragathiswaran@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 3,  
+      "name": "Pradhish S",  
+      "email": "pradhishsekar1997@gmail.com ",  
+      "gender": "female"  
+    },  
+    {  
+      "id": 4,  
+      "name": "Vishnu S",  
+      "email": "vishnudcrazie@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 5,  
+      "name": "Vinith R",  
+      "email": "vinithravi261001@gmail.com",  
+      "gender": "male"  
+    }  
+  ]  
